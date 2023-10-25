@@ -1,0 +1,10 @@
+{
+  "name": "tamasnyulas/test",
+  "description": "Testing",
+  "type": "library",
+  "require": {
+    "php": ">=8.1.0"
+  },
+  "license": "proprietary",
+  "minimum-stability": "dev"
+}
